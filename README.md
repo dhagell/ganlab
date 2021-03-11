@@ -34,7 +34,7 @@ This section describes how you can develop GAN Lab.
 Run the following commands: 
 
 ```bash
-$ git clone https://github.com/poloclub/ganlab.git
+$ git clone https://github.com/dhagell/ganlab.git
 $ cd ganlab
 $ yarn prep
 ```
